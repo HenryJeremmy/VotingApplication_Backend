@@ -64,8 +64,8 @@ The API documentation is available at `http://localhost:8080/api/swagger-ui.html
 ## Default Users
 
 An admin user is created by default with the following credentials:
-- Email: admin@voting.com
-- Password: admin123
+- Email: 
+- Password: 
 
 ## Available Endpoints
 
