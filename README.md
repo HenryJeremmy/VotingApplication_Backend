@@ -97,4 +97,5 @@ Authorization: Bearer {your-token}
 
 ```
 ## Test-Appendix
+
 ![Voting Test](/Users/henrychijioke/Downloads/VotingTest.png)
