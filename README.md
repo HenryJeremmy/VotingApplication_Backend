@@ -97,4 +97,5 @@ Authorization: Bearer {your-token}
 
 ```
 ## Test-Appendix
-![Voting Test](VotingTest.png)
+
+<img width="1432" alt="Image" src="https://github.com/user-attachments/assets/cf3129f8-d3b9-4598-8d12-a70c26b593b5" />
