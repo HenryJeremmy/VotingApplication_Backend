@@ -94,4 +94,7 @@ The application uses JWT for authentication. All endpoints except `/auth/**` and
 To authenticate, obtain a JWT token by calling the login endpoint, then include it in the Authorization header of subsequent requests:
 ```
 Authorization: Bearer {your-token}
+
 ```
+## Test-Appendix
+![img_1.png](img_1.png)
